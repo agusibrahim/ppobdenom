@@ -1,4 +1,5 @@
 {
+    "txt": "tsel flash 1gb 30 hr",
     "tags": "internet",
     "expire_in": "30 hari",
     "quota": "1 GB",
