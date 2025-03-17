@@ -1,5 +1,4 @@
 {
-    "txt": "tsel data 12 gb flash 30 hr (zona tertentu mendapat kuota 8-12gb)",
     "tags": "internet",
     "expire_in": "30 hr",
     "quota": "12 GB",

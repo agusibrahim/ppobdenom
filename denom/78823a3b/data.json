@@ -1,7 +1,6 @@
 {
-    "txt": "axis owsem 1gb all+1gb 4g+2gb game,30h",
     "tags": "internet,game",
-    "expire_in": "30 hari",
-    "quota": "4 GB",
-    "description": "Nikmati 1GB untuk semua, 1GB 4G, dan 2GB khusus game selama 30 hari. Segera aktifkan dan mainkan game favoritmu tanpa khawatir kuota!"
+    "expire_in": "30 jam",
+    "quota": "1 GB",
+    "description": "Raih pengalaman bermain game yang seru dengan kuota 1GB ALL, 1GB 4G, dan 2GB khusus game selama 30 jam. Segera aktifkan dan nikmati!"
 }
